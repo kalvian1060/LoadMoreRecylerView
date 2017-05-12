@@ -5,6 +5,4 @@ Tahapan-Tahapan dalam membuat RecylerView Load  More ProgressBar
 4. Menambah Aksi Load More pada Adapter dengan implement di Activity
 5. Penambahan data masih menggunakan manual dan dapat disesuaikan 
 
-<p align="center">
-<img src"device-2017-05-12-074423.png" width="300"/>
-</p>
+![alt text](https://github.com/kalvian1060/LoadMoreRecylerView/blob/master/device-2017-05-12-074423.png?raw=true "Load More Result")
